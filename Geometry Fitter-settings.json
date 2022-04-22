@@ -1,0 +1,68 @@
+{
+    "modelCoordinatesField": "coordinates",
+    "dataCoordinatesField": "coordinates",
+    "fibreField": null,
+    "markerGroup": "marker",
+    "diagnosticLevel": 1,
+    "fitterSteps": [
+        {
+            "_FitterStepConfig": true,
+            "groupSettings": {}
+        },
+        {
+            "_FitterStepAlign": true,
+            "groupSettings": {},
+            "alignGroups": true,
+            "alignMarkers": true,
+            "rotation": [
+                4.755080548799054,
+                3.0612858359043553,
+                1.4704446391877721
+            ],
+            "scale": 6712.884711016884,
+            "translation": [
+                7447.622345378777,
+                -5562.165502732194,
+                -3372.710590436221
+            ]
+        },
+        {
+            "_FitterStepFit": true,
+            "groupSettings": {
+                "<default>": {
+                    "curvaturePenalty": [
+                        1000.0
+                    ],
+                    "strainPenalty": [
+                        0.01
+                    ]
+                },
+                "marker": {
+                    "dataWeight": 100.0
+                },
+                "apex of heart": {
+                    "dataWeight": 1.0
+                }
+            },
+            "numberOfIterations": 1,
+            "maximumSubIterations": 1,
+            "updateReferenceState": false
+        },
+        {
+            "_FitterStepFit": true,
+            "groupSettings": {
+                "<default>": {
+                    "curvaturePenalty": [
+                        100.0
+                    ],
+                    "strainPenalty": [
+                        0.001
+                    ]
+                }
+            },
+            "numberOfIterations": 1,
+            "maximumSubIterations": 1,
+            "updateReferenceState": false
+        }
+    ]
+}

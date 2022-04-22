@@ -1,0 +1,27 @@
+{
+    "displayAxes": false,
+    "displayMarkerDataPoints": true,
+    "displayMarkerDataNames": true,
+    "displayMarkerDataProjections": true,
+    "displayMarkerPoints": true,
+    "displayMarkerNames": true,
+    "displayDataPoints": true,
+    "displayDataProjections": true,
+    "displayDataProjectionPoints": false,
+    "displayNodePoints": false,
+    "displayNodeNumbers": false,
+    "displayNodeDerivatives": false,
+    "displayNodeDerivativeLabels": [
+        "D1",
+        "D2",
+        "D3"
+    ],
+    "displayElementNumbers": false,
+    "displayElementAxes": false,
+    "displayLines": true,
+    "displayLinesExterior": false,
+    "displaySurfaces": true,
+    "displaySurfacesExterior": true,
+    "displaySurfacesTranslucent": true,
+    "displaySurfacesWireframe": false
+}

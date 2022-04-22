@@ -1,0 +1,79 @@
+{
+    "scaffold_settings": {
+        "deleteElementRanges": "",
+        "displayAxes": true,
+        "displayElementAxes": false,
+        "displayElementNumbers": false,
+        "displayLines": true,
+        "displayLinesExterior": false,
+        "displayMarkerPoints": false,
+        "displayModelRadius": false,
+        "displayNodeDerivativeLabels": [
+            "D1",
+            "D2",
+            "D3"
+        ],
+        "displayNodeDerivatives": 0,
+        "displayNodeNumbers": false,
+        "displayNodePoints": false,
+        "displaySurfaces": true,
+        "displaySurfacesExterior": true,
+        "displaySurfacesTranslucent": true,
+        "displaySurfacesWireframe": false,
+        "modelCoordinatesField": "coordinates",
+        "scaffoldPackage": {
+            "_ScaffoldPackage": true,
+            "rotation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scaffoldSettings": {
+                "Collapse RV columns": false,
+                "Interventricular sulcus derivative factor": 0.8,
+                "LV apex thickness": 0.12,
+                "LV free wall thickness": 0.12,
+                "LV outer diameter": 0.85,
+                "LV outer height": 0.9,
+                "Number of elements around LV free wall": 5,
+                "Number of elements around RV free wall": 7,
+                "Number of elements up LV apex": 1,
+                "Number of elements up RV": 4,
+                "RV arc apex fraction": 0.7,
+                "RV arc around degrees": 130.0,
+                "RV free wall thickness": 0.05,
+                "RV inner height fraction": 0.9,
+                "RV side extension": 0.03,
+                "RV side extension growth factor": 0.1,
+                "RV width": 0.25,
+                "RV width growth factor": 0.8,
+                "Refine": false,
+                "Refine number of elements surface": 4,
+                "Refine number of elements through LV wall": 1,
+                "Refine number of elements through wall": 1,
+                "Unit scale": 1.0,
+                "Use cross derivatives": false,
+                "Ventricular septum base radial displacement": 0.0,
+                "Ventricular septum thickness": 0.12
+            },
+            "scaffoldTypeName": "3D Heart Ventricles 1",
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    "segmentation_data_settings": {
+        "displayDataContours": true,
+        "displayDataMarkerNames": true,
+        "displayDataMarkerPoints": true,
+        "displayDataPoints": false,
+        "displayDataRadius": false
+    }
+}

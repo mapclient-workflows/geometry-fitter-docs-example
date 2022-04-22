@@ -1,0 +1,39 @@
+[General]
+version=0.17.1
+
+[view]
+scale=1.0000000000000002
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\xa6\xef\xff\xff\xff\xff\xff@\x9e'\xff\xff\xff\xff\xfe)
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\x1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)
+
+[nodes]
+nodelist\1\source_uri=https://github.com/ABI-Software/mapclientplugins.geometryfitter
+nodelist\1\name=Geometry Fitter
+nodelist\1\position=@Variant(\0\0\0\x1a@x\xe5\\\xb8\x1d\x96>@e\xca\x61\xabQ\x90\x1c)
+nodelist\1\selected=false
+nodelist\1\identifier=Geometry Fitter
+nodelist\1\unique_identifier=105636bf-c03e-11ec-a7b4-98e743652f19
+nodelist\1\connections\size=0
+nodelist\2\source_uri=https://github.com/ABI-Software/mapclientplugins.scaffoldcreator
+nodelist\2\name=Scaffold Creator
+nodelist\2\position=@Variant(\0\0\0\x1a@d\x92l\x3N*\xed@[-\xb6\x43Y\xce\xf6)
+nodelist\2\selected=false
+nodelist\2\identifier=Scaffold
+nodelist\2\unique_identifier=46886206-c03e-11ec-a390-98e743652f19
+nodelist\2\connections\size=1
+nodelist\3\source_uri=https://github.com/mapclient-plugins/mapclientplugins.filechooserstep
+nodelist\3\name=File Chooser
+nodelist\3\position=@Variant(\0\0\0\x1a@d\xce\x8a(\x1a\xad<@o\xb9[\xd4\xf4H\x10)
+nodelist\3\selected=false
+nodelist\3\identifier=Data
+nodelist\3\unique_identifier=623e8527-c03e-11ec-951b-98e743652f19
+nodelist\3\connections\1\connectedFromIndex=0
+nodelist\3\connections\1\connectedTo=0
+nodelist\3\connections\1\connectedToIndex=1
+nodelist\3\connections\1\selected=false
+nodelist\3\connections\size=1
+nodelist\size=3
+nodelist\2\connections\1\connectedFromIndex=0
+nodelist\2\connections\1\connectedTo=0
+nodelist\2\connections\1\connectedToIndex=0
+nodelist\2\connections\1\selected=false
